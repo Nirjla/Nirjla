@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nirjalashakya" target="blank"><img src="https://img.shields.io/twitter/follow/nirjalashakya?logo=twitter&style=for-the-badge" alt="nirjalashakya" /></a> </p>
 
-- 🌱 I’m currently learning **backend**
+- 🌱 I’m currently learning **Web Dev**
 
 - 📫 How to reach me **shakyanirjala6@gmail.com**
 
