@@ -11,10 +11,10 @@
 
 <p align="right"><img align="right" width="40%" top-margin="10px" src="nirjla.gif" alt="nirjla-gif" /></p>
 <br>
-<p align="left"  >
-- 🌱 I’m currently learning **Web Dev**
-- 📫 How to reach me **shakyanirjala6@gmail.com** 
-
+<p align="left">
+  🌱 I’m currently learning <strong>Web Dev</strong>
+  <br>
+  📫 How to reach me: <strong>shakyanirjala6@gmail.com</strong>
 </p>
 
 
