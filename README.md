@@ -10,7 +10,7 @@
 </div>
 
 <p align="right"><img align="right" width="40%" top-margin="10px" src="nirjla.gif" alt="nirjla-gif" /></p>
-<br clear="both">
+<br>
 <p align="left"  >
 - 🌱 I’m currently learning **Web Dev**
 - 📫 How to reach me **shakyanirjala6@gmail.com** 
