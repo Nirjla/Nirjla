@@ -12,7 +12,7 @@
 </div>
 
 
-<p align="right"><img align="right" width="40%" top-margin="5px" bottom-margin='5px' src="nirjla.gif" alt="nirjla-gif" /></p>
+<p align="right"><img align="right" width="35%" top-margin="5px" src="nirjla.gif" alt="nirjla-gif" /></p>
 <br>
 <p align="left">
   🤓 I <strong>nerd</strong> sometimes!
