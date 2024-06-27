@@ -6,8 +6,11 @@
 </div>
 <br clear="both">
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Follow%20me&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/nirjalashakya/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Follow%20me&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
 </div>
+
 
 <p align="right"><img align="right" width="40%" top-margin="10px" src="nirjla.gif" alt="nirjla-gif" /></p>
 <br>
