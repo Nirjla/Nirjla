@@ -1,4 +1,4 @@
-<h1 align="center">What's Up, I'm Nirjala Shakya</h1>
+<h1 align="center">What's Up👋, I'm Nirjala Shakya</h1>
 
 
 <div align="left">
@@ -15,6 +15,8 @@
 <p align="right"><img align="right" width="40%" top-margin="10px" src="nirjla.gif" alt="nirjla-gif" /></p>
 <br>
 <p align="left">
+  🤓I <strong>nerd</strong> sometimes!
+  <br>
   🌱 I’m currently learning <strong>Web Dev</strong>
   <br>
   📫 How to reach me: <strong>shakyanirjala6@gmail.com</strong>
