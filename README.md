@@ -15,7 +15,7 @@
 <p align="right"><img align="right" width="40%" top-margin="10px" src="nirjla.gif" alt="nirjla-gif" /></p>
 <br>
 <p align="left">
-  🤓I <strong>nerd</strong> sometimes!
+  🤓 I <strong>nerd</strong> sometimes!
   <br>
   🌱 I’m currently learning <strong>Web Dev</strong>
   <br>
