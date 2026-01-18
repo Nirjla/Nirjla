@@ -17,7 +17,7 @@
 <p align="left">
   🤓 I <strong>nerd</strong> sometimes!
   <br>
-  🌱 I’m currently learning <strong>Web Dev</strong>
+  🌱 I’m an Assoc.SWE.
   <br>
   📫 How to reach me: <strong>shakyanirjala6@gmail.com</strong>
 </p>
